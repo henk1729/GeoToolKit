@@ -1,0 +1,11 @@
+[out:json][timeout:25];
+
+// Gather elements inside the current bounding box
+(
+  node["leisure"="park"]({{bbox}});
+  way["leisure"="park"]({{bbox}});
+  relation["leisure"="park"]({{bbox}});
+);
+
+// CRITICAL: "out geom" embeds the coordinates into the JSON
+out geom;
