@@ -8,3 +8,5 @@ First, the data from a GeoJSON file is read and the JSONserializer is instructed
 
 <h3>Industry Context</h3>
 Used by sectors like ride-hailing and logistics, real estate tech and property platforms, enterprise GIS and mapping infrastructure.
+
+More about GeoJSON here: https://medium.com/@thakresopan72/understanding-geojson-b339dfe72392
