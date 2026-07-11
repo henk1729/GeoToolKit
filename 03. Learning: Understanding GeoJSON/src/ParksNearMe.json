@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-10T17:29:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217112832",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8135024,
+              18.5653285
+            ],
+            [
+              73.8140203,
+              18.5653491
+            ],
+            [
+              73.8139986,
+              18.5658374
+            ],
+            [
+              73.8134807,
+              18.5658168
+            ],
+            [
+              73.8135024,
+              18.5653285
+            ]
+          ]
+        ]
+      },
+      "id": "way/217112832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218691426",
+        "leisure": "park",
+        "name": "Marutrao Gayakwad Udyan",
+        "name:mr": "मारुतराव गायकवाड उद्यान",
+        "opening_hours": "06:00-20:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8096329,
+              18.5618876
+            ],
+            [
+              73.8099546,
+              18.5618662
+            ],
+            [
+              73.8099433,
+              18.5620347
+            ],
+            [
+              73.8104342,
+              18.5620534
+            ],
+            [
+              73.8104483,
+              18.5618823
+            ],
+            [
+              73.8107361,
+              18.5618742
+            ],
+            [
+              73.8107756,
+              18.562345
+            ],
+            [
+              73.8100082,
+              18.5624466
+            ],
+            [
+              73.8099771,
+              18.5622781
+            ],
+            [
+              73.8096893,
+              18.5623209
+            ],
+            [
+              73.8096329,
+              18.5618876
+            ]
+          ]
+        ]
+      },
+      "id": "way/218691426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511226311",
+        "description": "Children's / Jogging Park",
+        "landuse": "recreation_ground",
+        "leisure": "park",
+        "name": "Ram Laxman Children's Park",
+        "natural": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8065529,
+              18.5603507
+            ],
+            [
+              73.8065472,
+              18.5599247
+            ],
+            [
+              73.8070142,
+              18.5599436
+            ],
+            [
+              73.8070063,
+              18.5603766
+            ],
+            [
+              73.8067788,
+              18.5603637
+            ],
+            [
+              73.8065529,
+              18.5603507
+            ]
+          ]
+        ]
+      },
+      "id": "way/511226311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/654269688",
+        "leisure": "park",
+        "name": "Anand Udyan",
+        "name:mr": "आनंद उद्यान"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8046335,
+              18.5565926
+            ],
+            [
+              73.8047267,
+              18.5560758
+            ],
+            [
+              73.8051599,
+              18.5561063
+            ],
+            [
+              73.8050644,
+              18.5566566
+            ],
+            [
+              73.8046335,
+              18.5565926
+            ]
+          ]
+        ]
+      },
+      "id": "way/654269688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12301663618",
+        "leisure": "park",
+        "name": "Children’s Traffic Park",
+        "name:en": "Children’s Traffic Park",
+        "name:mr": "वाहतूक उद्यान",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8151486,
+          18.5598737
+        ]
+      },
+      "id": "node/12301663618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72950568",
+        "access": "private",
+        "highway": "service",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Chintamani nagar",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8065375,
+            18.5556006
+          ],
+          [
+            73.8061065,
+            18.5556547
+          ]
+        ]
+      },
+      "id": "way/72950568"
+    }
+  ]
+}
